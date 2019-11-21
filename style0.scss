@@ -1,0 +1,46 @@
+$color: #FF3D41;
+
+h1    {
+  font-size: 25px;
+  color: $color;
+
+}
+p {
+  font-size: 18px;
+}
+
+table{
+  th{
+    color:blue
+  }
+}
+
+%changes{
+  font-weight: Bold;
+  font-style: oblique;
+}
+
+.b{
+  @extend %changes;
+  color:Pink;
+}
+.bp{
+  @extend %changes;
+  color:blue;
+}
+.h{
+  @extend %changes;
+  color:gray;
+}
+.e{
+  @extend %changes;
+  color:orange;
+}
+.hr{
+  @extend %changes;
+  color:green;
+}
+.p{
+  @extend %changes;
+  color:brown;
+}

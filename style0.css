@@ -1,0 +1,33 @@
+h1 {
+  font-size: 25px;
+  color: #FF3D41; }
+
+p {
+  font-size: 18px; }
+
+table th {
+  color: blue; }
+
+.b, .bp, .h, .e, .hr, .p {
+  font-weight: Bold;
+  font-style: oblique; }
+
+.b {
+  color: Pink; }
+
+.bp {
+  color: blue; }
+
+.h {
+  color: gray; }
+
+.e {
+  color: orange; }
+
+.hr {
+  color: green; }
+
+.p {
+  color: brown; }
+
+/*# sourceMappingURL=style0.css.map */
