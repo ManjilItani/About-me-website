@@ -1,6 +1,12 @@
 # Project 0
 
 Web Programming with Python and JavaScript
+
+Tools used:
+    HTML5
+    CSS
+    Bootstarp
+    
 I have created 4 HTML pages
 
 Index.html(Main Page)-
